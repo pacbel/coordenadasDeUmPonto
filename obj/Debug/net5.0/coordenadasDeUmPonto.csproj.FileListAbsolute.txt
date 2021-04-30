@@ -1,0 +1,16 @@
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\bin\Debug\net5.0\coordenadasDeUmPonto.exe
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\bin\Debug\net5.0\coordenadasDeUmPonto.deps.json
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\bin\Debug\net5.0\coordenadasDeUmPonto.runtimeconfig.json
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\bin\Debug\net5.0\coordenadasDeUmPonto.runtimeconfig.dev.json
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\bin\Debug\net5.0\coordenadasDeUmPonto.dll
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\bin\Debug\net5.0\ref\coordenadasDeUmPonto.dll
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\bin\Debug\net5.0\coordenadasDeUmPonto.pdb
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\coordenadasDeUmPonto.csprojAssemblyReference.cache
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\coordenadasDeUmPonto.GeneratedMSBuildEditorConfig.editorconfig
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\coordenadasDeUmPonto.AssemblyInfoInputs.cache
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\coordenadasDeUmPonto.AssemblyInfo.cs
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\coordenadasDeUmPonto.csproj.CoreCompileInputs.cache
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\coordenadasDeUmPonto.dll
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\ref\coordenadasDeUmPonto.dll
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\coordenadasDeUmPonto.pdb
+F:\digitalInnovationOne\workspace\coordenadasDeUmPonto\obj\Debug\net5.0\coordenadasDeUmPonto.genruntimeconfig.cache
